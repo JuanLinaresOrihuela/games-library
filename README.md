@@ -1,1 +1,1 @@
-# games-library-react-practice
+# React practice
